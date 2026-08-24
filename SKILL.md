@@ -1,5 +1,5 @@
 ---
-name: somos-marketing
+name: sommos-marketing
 description: Estrategia de marketing y creación de contenido para SOMMOS, enfocada en posicionamiento, alcance relevante y comunicación para directores, gerentes y tomadores de decisión de entidades financieras e IFDs.
 ---
 SOMMOS Marketing Skill
